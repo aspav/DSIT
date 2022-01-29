@@ -34,7 +34,7 @@ This folder contains the code and reports for the assignments of the course **Al
 
 ##### ✏️ Algorithms in Structural Bioinformatics
 
-The project contains four notebooks that were developed in the scope of the course **Algorithms in Structural Bioinformatics**.
+This project contains four notebooks that were developed in the scope of the course **Algorithms in Structural Bioinformatics**.
 
 ##### 🖿 data 🗄️
 
@@ -56,7 +56,7 @@ The project contains four notebooks that were developed in the scope of the cour
 
 ##### ✏️ Application of Data Science and Information Technologies in Neurosciences
 
-The folder contains the code (implemented in `matlab`) and the report (*in pdf format*) for the following assignments of the course:
+This folder contains the code (implemented in `matlab`) and the reports (*in pdf format*) for the following assignments of the course:
 
 ##### 🖿 **IntegrateFireNeuron**: Integrate and Fire Neuron Model f-I curve
 
