@@ -98,7 +98,7 @@ This folder contains the code (implemented in `matlab`) and the reports (*in pdf
 
 ## ⚙️ HOW TO
 
-### 🐍 Regarding the `python` files and notebooks, the following steps should be followed to run them:
+### 🐍 Regarding the `python` files and notebooks, the next steps should be followed to run them:
 
 **✅️️ NOTE: I used Python 3.8 for running the following commands.** 
 
