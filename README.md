@@ -18,9 +18,9 @@ This program comes with ABSOLUTELY NO WARRANTY. This is free software, and you a
 
 This folder contains the code and reports for the assignments of the course **Algorithms in Molecular Biology** as well as the data that are required to run the notebooks.
 
-##### 🖿 data 🗄️
+##### 📁 data 🗄️
 
-##### 🖿 notebooks
+##### 📁 notebooks
 
 * 💾 [frequent_words.ipynb](https://nbviewer.org/github/aspav/DSIT/blob/main/AIMB/notebooks/frequent_words.ipynb)
 
@@ -36,9 +36,9 @@ This folder contains the code and reports for the assignments of the course **Al
 
 This project contains four notebooks that were developed in the scope of the course **Algorithms in Structural Bioinformatics**.
 
-##### 🖿 data 🗄️
+##### 📁 data 🗄️
 
-##### 🖿 notebooks
+##### 📁 notebooks
 
 * 💾 [Implementation of c-RMSD & d-RMSD](https://nbviewer.org/github/aspav/DSIT/blob/main/AISB/notebooks/cRMSD_dRMSD.ipynb)
 
@@ -48,7 +48,7 @@ This project contains four notebooks that were developed in the scope of the cou
 
 * 💾 [Playing with pdb files](https://nbviewer.org/github/aspav/DSIT/blob/main/AISB/notebooks/playing_with_pdb_files.ipynb)
 
-##### 🖿 reports
+##### 📁 reports
 
 * 📝 playing_with_pdb_files.pdf
 
@@ -58,13 +58,13 @@ This project contains four notebooks that were developed in the scope of the cou
 
 This folder contains the code (implemented in `matlab`) and the reports (*in pdf format*) for the following assignments of the course:
 
-##### 🖿 **IntegrateFireNeuron**: Integrate and Fire Neuron Model f-I curve
+##### 📁 **IntegrateFireNeuron**: Integrate and Fire Neuron Model f-I curve
 
 * 💾 `IntegrateFireNeuron.m`
 
 * 📝 IntegrateFireNeuron.pdf
 
-##### 🖿 **HodgkinHuxley**: The Hodgkin-Huxley Model as an Oscillator
+##### 📁 **HodgkinHuxley**: The Hodgkin-Huxley Model as an Oscillator
 
 * 💾 `HodgkinHuxley.m`
 
@@ -78,7 +78,7 @@ This folder contains the code (implemented in `matlab`) and the reports (*in pdf
 
 ##### 🖿 Supervised Machine Learning
 
-* 🗀 output
+* 📁 output
 
 * 💾 `ex_3.py`
 
@@ -90,7 +90,7 @@ This folder contains the code (implemented in `matlab`) and the reports (*in pdf
 
 ##### 🖿 Unsupervised Machine Learning
 
-* 🗀 datasets 🗄️
+* 📁 datasets 🗄️
 
 * 💾 [Unsupervised_Learning.ipynb](https://nbviewer.org/github/aspav/DSIT/blob/main/MLCB/Unsupervised%20Learning/Unsupervised_Learning.ipynb)
 
